@@ -1,0 +1,44 @@
+.counterBlock {
+  width: 340px;
+  height: 260px;
+  border: 1px solid red;
+  margin: 20px;
+  border-radius: 20px ;
+}
+
+.showNumber {
+  border: 1px solid green;
+  height: 100px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: olive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons {
+  border: 1px solid blue;
+  height: 100px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: mediumpurple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.active {
+  color: red;
+  border: 1px solid green;
+  height: 100px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: olive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

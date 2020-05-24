@@ -1,0 +1,44 @@
+.counterBlock {
+  width: 340px;
+  height: 260px;
+  border: 1px solid red;
+  margin: 20px;
+}
+
+.showNumber {
+  border: 1px solid green;
+  height: 100px;
+  margin: 20px;
+  text-align: center;
+}
+
+.buttons {
+  border: 1px solid blue;
+  height: 100px;
+  margin: 20px;
+  text-align: center;
+}
+
+.showNumber input{
+  margin: 10px;
+  width: 40px;
+}
+
+.a_MaxClass {
+  border-color: red;
+  background-color: coral;
+}
+
+.b_MaxClass {
+  border-color: white;
+  background-color: white;
+}
+.a_StartClass {
+  border-color: red;
+  background-color: coral;
+}
+
+.b_StartClass {
+  border-color: white;
+  background-color: white;
+}
